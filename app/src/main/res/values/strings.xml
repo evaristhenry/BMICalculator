@@ -1,0 +1,52 @@
+<resources>
+    <string name="height">Height</string>
+    <string name="_170">170</string>
+    <string name="calculate_your_bmi">Calculate Your BMI</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="weight">Weight</string>
+    <string name="_55">55</string>
+    <string name="minus_icon_age">minus_icon</string>
+    <string name="minus_icon_Weight">minus_icon</string>
+    <string name="minus_icon21_age">minus_icon</string>
+    <string name="minus_icon21_weight">minus_icon</string>
+    <string name="plus_icon_age">plus_icon</string>
+    <string name="plus_icon_weight">plus_icon</string>
+    <string name="plus_icon21_age">plus_icon</string>
+    <string name="plus_icon21_weight">plus_icon</string>
+    <string name="age">Age</string>
+    <string name="_22">22</string>
+    <string name="male_icon">male_icon</string>
+    <string name="female_icon">female_icon</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="logo_icon">logo_icon</string>
+    <string name="gender">Gender</string>
+    <string name="your_bmi_category_is">YOUR BMI CATEGORY IS</string>
+    <string name="re_calculate_your_bmi">Recalculate your bmi</string>
+    <string name="resalts_logo">Resalts_logo</string>
+    <string name="seekerbar">seekerbar</string>
+    <string name="app_name">BMI Calculator</string>
+    <string name="company">TECHiART</string>
+    <string name="_18_5_25_kg_m2">18.5 – 25 kg/m2</string>
+    <string name="normal_bmi_range">Normal BMI range:</string>
+    <string name="recalculate">Recalculate your BMI</string>
+    <string name="calculate">Calculate your BMI</string>
+    <string name="plus">plus</string>
+    <string name="minus">minus</string>
+    <string name="_0cm">0cm</string>
+    <string name="_50">50</string>
+    <string name="_19">19</string>
+    <string name="your_result">Your Result</string>
+    <string name="your_age">Your Age</string>
+    <string name="cm">cm</string>
+
+
+    <!--    Ads unit-->
+    <string name="Interstitial">ca-app-pub-7500172310294063/1572679699</string>
+    <string name="Banner">ca-app-pub-7500172310294063/9504308166</string>
+
+
+</resources>
+
+
+
